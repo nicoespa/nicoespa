@@ -1,6 +1,6 @@
-Hi, I'm Nicolas 👋  
+# Hi, I'm Nicolas 👋  
 
-📍 Buenos Aires | 📊 Data & ML | Exploring AI, security, and robotics  
+📍 Buenos Aires · 📊 Data & ML · Exploring AI, security, and robotics  
 
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)]()
 [![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white)]()
@@ -61,10 +61,10 @@ I’m also slowly getting deeper into robotics and how it connects with modern A
 
 ## Connect
 
-- X / Twitter: https://x.com/nicoespa2
-- LinkedIn: https://www.linkedin.com/in/npspagnuolo/
-- Email: nicolasspagnuolo4@gmail.com
-- GitHub: [@nicospagnuolo](https://github.com/nicospagnuolo)
+- X / Twitter: [https://x.com/nicoespa2](https://x.com/nicoespa2)  
+- LinkedIn: [https://www.linkedin.com/in/npspagnuolo/](https://www.linkedin.com/in/npspagnuolo/)  
+- Email: [nicolasspagnuolo4@gmail.com](mailto:nicolasspagnuolo4@gmail.com)  
+- GitHub: [@nicospagnuolo](https://github.com/nicospagnuolo)  
 
 ---
 
